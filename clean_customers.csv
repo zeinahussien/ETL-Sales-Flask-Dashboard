@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,city,age,email,full_name
+1,Ahmed,Hassan,Cairo,25,ahmed@email.com,Ahmed Hassan
+2,Sara,Ali,Giza,31,sara@email.com,Sara Ali
+3,Omar,Mohamed,Cairo,17,omar@email.com,Omar Mohamed
+4,Mona,Ibrahim,Alexandria,28,unknown@email.com,Mona Ibrahim
